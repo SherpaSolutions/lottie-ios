@@ -1,0 +1,4 @@
+module Lottie {
+    umbrella header "Lottie.h"
+    export *
+}
