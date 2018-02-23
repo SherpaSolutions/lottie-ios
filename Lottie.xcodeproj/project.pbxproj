@@ -1058,6 +1058,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.airbnb.Lottie;
 				PRODUCT_NAME = Lottie;
 				SKIP_INSTALL = YES;
+				VALID_ARCHS = "arm64 armv7 armv7s x86_64";
 				WARNING_CFLAGS = "";
 			};
 			name = Debug;
@@ -1079,6 +1080,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.airbnb.Lottie;
 				PRODUCT_NAME = Lottie;
 				SKIP_INSTALL = YES;
+				VALID_ARCHS = "arm64 armv7 armv7s x86_64";
 				WARNING_CFLAGS = "";
 			};
 			name = Release;
